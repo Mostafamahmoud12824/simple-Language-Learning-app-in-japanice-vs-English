@@ -20,7 +20,8 @@ samples, guidance on mobile development, and a full API reference.
 ![homescreen](https://user-images.githubusercontent.com/62766443/235009203-3cc3eb17-1a17-44ee-9ed8-423b4207680b.png)
 
 #Learn-Numbers_page(Japanese vs English):
-![homescreen](https://user-images.githubusercontent.com/62766443/235009203-3cc3eb17-1a17-44ee-9ed8-423b4207680b.png)
+![numbers in jaban](https://user-images.githubusercontent.com/62766443/235010301-b0dab81c-d6bc-4514-99af-9e14aceebe6b.png)
+
 
 #Learn-Family-members_page(Japanese vs English):
 ![Assignment5](https://user-images.githubusercontent.com/62766443/235009782-ad3346d4-d0d1-4982-a663-5731675c4bd6.png)
