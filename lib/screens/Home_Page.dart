@@ -68,6 +68,9 @@ class HomePage extends StatelessWidget {
           GestureDetector(
             onTap: () {
               print('colors is Tapped');
+               Navigator.push(context, MaterialPageRoute(builder: (context) {
+                return ColorsPage();
+              }));
             },
             child: Container(
               alignment: Alignment.centerLeft,
