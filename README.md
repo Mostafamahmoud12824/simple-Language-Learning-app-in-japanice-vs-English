@@ -23,11 +23,11 @@ samples, guidance on mobile development, and a full API reference.
 ![numbers in jaban](https://user-images.githubusercontent.com/62766443/235010301-b0dab81c-d6bc-4514-99af-9e14aceebe6b.png)
 
 
-#Learn-Family-members_page-one(Japanese vs English):
+# Learn-Family-members_page-one(Japanese vs English):
 ![Assignment5](https://user-images.githubusercontent.com/62766443/235009782-ad3346d4-d0d1-4982-a663-5731675c4bd6.png)
 
 
-##Learn-Family-members_page-two(Japanese vs English):
+## Learn-Family-members_page-two(Japanese vs English):
 ![page2 inassignment](https://user-images.githubusercontent.com/62766443/235009715-f4519e7b-dc73-42cc-96fb-19dbe71d292e.png)
 
 ### Learn-Colors(Japanese vs English):
